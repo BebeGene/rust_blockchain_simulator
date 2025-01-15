@@ -22,3 +22,4 @@ Ex:
 Blockchain status: Blockchain { chain: [Block { index: 0, previous_hash: "0", timestamp: 1625232209, transactions: [], nonce: 0, hash: "5e884898da28047151d0e56f8dc6292773603d0d69f3d2198e0c4f914aa60d73" }], current_transactions: [] }
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_blockchain_simulator/blob/master/Screenshots/Results.png)
